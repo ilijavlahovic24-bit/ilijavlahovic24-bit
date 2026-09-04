@@ -38,7 +38,7 @@ Currently:
 
 | Project | Description | Stack | Status | Also in |
 |---|---|---|---|---|
-| [Fault-Tolerant Distributed File System]([https://github.com/ilijavlahovic24-bit\ffs]) | Distributed FS with FUSE mount, WAL for crash recovery, Raft consensus (planned) | Rust, FUSE, Tokio | In Progress | Systems Software |
+| [Fault-Tolerant Distributed File System]([https://github.com/ilijavlahovic24-bit/ffs]) | Distributed FS with FUSE mount, WAL for crash recovery, Raft consensus (planned) | Rust, FUSE, Tokio | In Progress | Systems Software |
 | [Distributed Key-Value Store (DKVS)](https://github.com/ilijavlahovic24-bit) | Sharded KV store with consistent hashing (FNV-64) and inter-shard replication | Go, BoltDB | In Progress | — |
 | [Distributed Tuple-Space System (Linda)](https://github.com/ilijavlahovic24-bit) | Distributed Linda-style tuple space with worker heartbeat/failover | Java, Sockets | Core Complete | — |
 | [GraphStream]([https://github.com/ilijavlahovic24-bit](https://github.com/ilijavlahovic24-bit/graphstream)) | Temporal graph query engine with a custom query language (TQL) | Rust | Planned | Compilers & Query Languages |
