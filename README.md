@@ -48,7 +48,7 @@ Currently:
 
 | Project | Description | Stack | Status | Also in |
 |---|---|---|---|---|
-| [Fault-Tolerant Distributed File System](https://github.com/ilijavlahovic24-bit/ffs) | Distributed FS with FUSE mount, WAL for crash recovery, Raft consensus (planned) | Rust, fuse3, Tokio | In Progress | Distributed Systems |
+| [Fault-Tolerant Distributed File System](https://github.com/ilijavlahovic24-bit/ffs) | Distributed FS with FUSE mount, WAL for crash recovery, Raft consensus (planned) | Rust, FUSE, Tokio | In Progress | Distributed Systems |
 | [RISC-V OS Kernel](https://github.com/ilijavlahovic24-bit/OS1) | OS kernel from scratch: preemptive multitasking, memory allocator, trap-based syscalls | C++, RISC-V ASM | Completed | — |
 
 #### Compilers & Query Languages
@@ -64,7 +64,7 @@ Currently:
 | Project | Description | Stack | Status |
 |---|---|---|---|
 | [AIPlasma](https://github.com/ilijavlahovic24-bit/aiplasma) | Physics-informed ML framework (PINNs, Bayesian NNs) for plasma/fusion problems | Python, PyTorch | In Progress |
-| [Particle Simulation (Physics Engine)](https://github.com/ilijavlahovic24-bit/Cuda-Particle-Solver) | 2D particle sim, CUDA-accelerated from ~500 to 12,000+ particles at 60+ FPS | C++, CUDA, OpenGL | Completed |
+| [Particle Simulation (Physics Engine)](https://github.com/ilijavlahovic24-bit/Cuda-Particle-Solver) | 2D particle simulation, CUDA-accelerated from ~500 to 12,000+ particles at 60+ FPS | C++, CUDA, OpenGL | Completed |
 | [Mini-RAG](https://github.com/ilijavlahovic24-bit) | Search engine with a custom HNSW vector index and hybrid retrieval | Python | Planned |
 | [Model Compression Trilogy](https://github.com/ilijavlahovic24-bit) | Distillation, quantization, and pruning benchmark suite (DistillBench) | Python | Planned |
 
