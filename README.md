@@ -39,7 +39,7 @@ Currently:
 | Project | Description | Stack | Status | Also in |
 |---|---|---|---|---|
 | [Fault-Tolerant Distributed File System](https://github.com/ilijavlahovic24-bit/ffs) | Distributed FS with FUSE mount, WAL for crash recovery, Raft consensus (planned) | Rust, FUSE, Tokio | In Progress | Systems Software |
-| [Distributed Key-Value Store (DKVS)](https://github.com/ilijavlahovic24-bit) | Sharded KV store with consistent hashing (FNV-64) and inter-shard replication | Go, BoltDB | In Progress | — |
+| [Distributed Key-Value Store (DKVS)](https://github.com/ilijavlahovic24-bit/dkvs) | Sharded KV store with consistent hashing (FNV-64) and inter-shard replication | Go, BoltDB | In Progress | — |
 | [Distributed Tuple-Space System (Linda)](https://github.com/ilijavlahovic24-bit) | Distributed Linda-style tuple space with worker heartbeat/failover | Java, Sockets | Core Complete | — |
 | [GraphStream](https://github.com/ilijavlahovic24-bit](https://github.com/ilijavlahovic24-bit/graphstream)) | Temporal graph query engine with a custom query language (TQL) | Rust | Planned | Compilers & Query Languages |
 | [GFCS-R](https://github.com/ilijavlahovic24-bit/gfcr) | Discrete-event simulator for GPU interconnect fabric with congestion-aware routing | Rust | Planned | — |
@@ -56,8 +56,8 @@ Currently:
 | Project | Description | Stack | Status | Also in |
 |---|---|---|---|---|
 | [MicroJava Compiler](https://github.com/ilijavlahovic24-bit) | Full compiler for MicroJava (Level C) — lexer, parser, semantic analysis, codegen for a custom VM | Java, JFlex, CUP | Completed | — |
-| [GraphStream](https://github.com/ilijavlahovic24-bit) | Temporal graph query engine with a custom query language (TQL) — EBNF grammar, parser, execution engine | Rust | Planned | Distributed Systems |
-| [SLC](https://github.com/ilijavlahovic24-bit) | Custom shader language to GLSL compiler (diploma thesis) | C++ | Planned | — |
+| [GraphStream](https://github.com/ilijavlahovic24-bit/graphstream) | Temporal graph query engine with a custom query language (TQL) — EBNF grammar, parser, execution engine | Rust | Planned | Distributed Systems |
+| [SLC](https://github.com/ilijavlahovic24-bit/slc) | Custom shader language to GLSL compiler (diploma thesis) | C++ | Planned | — |
 
 #### Machine Learning & Physics
 
@@ -95,6 +95,7 @@ Areas         : Systems Programming · Distributed Systems · GPU Computing · M
 - Petnica Science Center — competitive science program for Serbia's most talented students
 - ABB Robotics Hackathon · JetBrains Hackathon (logistics team) · Google Developer Group Cloud Workshop
 - Member, EESTEC — European Association of Electrical Engineering Students
+- Member, Google Developer Group on Campus
 
 ---
 
