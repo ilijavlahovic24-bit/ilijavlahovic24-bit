@@ -23,7 +23,7 @@ linkedin  : linkedin.com/in/YOUR-LINKEDIN-HANDLE
 
 ### About
 
-4th-year Computer Science and Engineering student at the **Faculty of Electrical Engineering, University of Belgrade**. I like building things close to the metal — filesystems, distributed stores, OS kernels, compilers - and I'm increasingly pulled toward physics-informed machine learning. Long-term, I'm aiming at deep tech and space systems.
+4th-year Computer Science and Engineering student at the **Faculty of Electrical Engineering, University of Belgrade**. I like building things close to the metal - filesystems, distributed stores, OS kernels, compilers - and I'm increasingly pulled toward physics-informed machine learning. Long-term, I'm aiming at deep tech and space systems.
 
 Currently:
 - Building a **fault-tolerant distributed file system** in Rust (FUSE + Raft + WAL)
@@ -40,7 +40,7 @@ Currently:
 |---|---|---|---|---|
 | [Fault-Tolerant Distributed File System](https://github.com/ilijavlahovic24-bit/ffs) | Distributed FS with FUSE mount, WAL for crash recovery, Raft consensus (planned) | Rust, FUSE, Tokio | In Progress | Systems Software |
 | [Distributed Key-Value Store (DKVS)](https://github.com/ilijavlahovic24-bit/dkvs) | Sharded KV store with consistent hashing (FNV-64) and inter-shard replication | Go, BoltDB | In Progress | — |
-| [Distributed Tuple-Space System (Linda)](https://github.com/ilijavlahovic24-bit) | Distributed Linda-style tuple space with worker heartbeat/failover | Java, Sockets | Core Complete | — |
+| [Distributed Tuple-Space System (Linda)](https://github.com/ilijavlahovic24-bit) | Distributed Linda-style tuple space with worker heartbeat/failover | Java | Core Complete | — |
 | [GraphStream](https://github.com/ilijavlahovic24-bit](https://github.com/ilijavlahovic24-bit/graphstream)) | Temporal graph query engine with a custom query language (TQL) | Rust | Planned | Compilers & Query Languages |
 | [GFCS-R](https://github.com/ilijavlahovic24-bit/gfcr) | Discrete-event simulator for GPU interconnect fabric with congestion-aware routing | Rust | Planned | — |
 
@@ -48,7 +48,7 @@ Currently:
 
 | Project | Description | Stack | Status | Also in |
 |---|---|---|---|---|
-| [Fault-Tolerant Distributed File System](https://github.com/ilijavlahovic24-bit/ffs) | Distributed FS with FUSE mount, WAL for crash recovery, Raft consensus (planned) | Rust, FUSE, Tokio | In Progress | Distributed Systems |
+| [Fault-Tolerant Distributed File System](https://github.com/ilijavlahovic24-bit/ffs) | Distributed FS with FUSE mount, WAL for crash recovery, Raft consensus (planned) | Rust, fuse3, Tokio | In Progress | Distributed Systems |
 | [RISC-V OS Kernel](https://github.com/ilijavlahovic24-bit/OS1) | OS kernel from scratch: preemptive multitasking, memory allocator, trap-based syscalls | C++, RISC-V ASM | Completed | — |
 
 #### Compilers & Query Languages
