@@ -41,15 +41,15 @@ Currently:
 | [Fault-Tolerant Distributed File System](https://github.com/ilijavlahovic24-bit/ffs) | Distributed FS with FUSE mount, WAL for crash recovery, Raft consensus (planned) | Rust, FUSE, Tokio | In Progress | Systems Software |
 | [Distributed Key-Value Store (DKVS)](https://github.com/ilijavlahovic24-bit) | Sharded KV store with consistent hashing (FNV-64) and inter-shard replication | Go, BoltDB | In Progress | — |
 | [Distributed Tuple-Space System (Linda)](https://github.com/ilijavlahovic24-bit) | Distributed Linda-style tuple space with worker heartbeat/failover | Java, Sockets | Core Complete | — |
-| [GraphStream]([https://github.com/ilijavlahovic24-bit](https://github.com/ilijavlahovic24-bit/graphstream)) | Temporal graph query engine with a custom query language (TQL) | Rust | Planned | Compilers & Query Languages |
-| [GFCS-R](https://github.com/ilijavlahovic24-bit) | Discrete-event simulator for GPU interconnect fabric with congestion-aware routing | Rust | Planned | — |
+| [GraphStream](https://github.com/ilijavlahovic24-bit](https://github.com/ilijavlahovic24-bit/graphstream)) | Temporal graph query engine with a custom query language (TQL) | Rust | Planned | Compilers & Query Languages |
+| [GFCS-R](https://github.com/ilijavlahovic24-bit/gfcr) | Discrete-event simulator for GPU interconnect fabric with congestion-aware routing | Rust | Planned | — |
 
 #### Systems Software
 
 | Project | Description | Stack | Status | Also in |
 |---|---|---|---|---|
-| [Fault-Tolerant Distributed File System](https://github.com/ilijavlahovic24-bit) | Distributed FS with FUSE mount, WAL for crash recovery, Raft consensus (planned) | Rust, FUSE, Tokio | In Progress | Distributed Systems |
-| [RISC-V OS Kernel](https://github.com/ilijavlahovic24-bit) | OS kernel from scratch: preemptive multitasking, memory allocator, trap-based syscalls | C++, RISC-V ASM | Completed | — |
+| [Fault-Tolerant Distributed File System](https://github.com/ilijavlahovic24-bit/ffs) | Distributed FS with FUSE mount, WAL for crash recovery, Raft consensus (planned) | Rust, FUSE, Tokio | In Progress | Distributed Systems |
+| [RISC-V OS Kernel](https://github.com/ilijavlahovic24-bit/OS1) | OS kernel from scratch: preemptive multitasking, memory allocator, trap-based syscalls | C++, RISC-V ASM | Completed | — |
 
 #### Compilers & Query Languages
 
@@ -63,8 +63,8 @@ Currently:
 
 | Project | Description | Stack | Status |
 |---|---|---|---|
-| [AIPlasma](https://github.com/ilijavlahovic24-bit) | Physics-informed ML framework (PINNs, Bayesian NNs) for plasma/fusion problems | Python, PyTorch | In Progress |
-| [Particle Simulation (Physics Engine)](https://github.com/ilijavlahovic24-bit) | 2D particle sim, CUDA-accelerated from ~500 to 12,000+ particles at 60+ FPS | C++, CUDA, OpenGL | Completed |
+| [AIPlasma](https://github.com/ilijavlahovic24-bit/aiplasma) | Physics-informed ML framework (PINNs, Bayesian NNs) for plasma/fusion problems | Python, PyTorch | In Progress |
+| [Particle Simulation (Physics Engine)](https://github.com/ilijavlahovic24-bit/Cuda-Particle-Solver) | 2D particle sim, CUDA-accelerated from ~500 to 12,000+ particles at 60+ FPS | C++, CUDA, OpenGL | Completed |
 | [Mini-RAG](https://github.com/ilijavlahovic24-bit) | Search engine with a custom HNSW vector index and hybrid retrieval | Python | Planned |
 | [Model Compression Trilogy](https://github.com/ilijavlahovic24-bit) | Distillation, quantization, and pruning benchmark suite (DistillBench) | Python | Planned |
 
@@ -72,8 +72,8 @@ Currently:
 
 | Project | Description | Stack | Status |
 |---|---|---|---|
-| [Pennant]([https://github.com/ilijavlahovic24-bit](https://github.com/ilijavlahovic24-bit/pennant)) | B2B feature flag management system — RBAC, multi-tenancy, deterministic bucketing | Go, React, PostgreSQL, Redis | In Progress |
-| [AzureBank]([https://github.com/ilijavlahovic24-bit](https://github.com/ilijavlahovic24-bit/azurebank)) | Retail banking API with CI/CD pipeline and cloud deployment | Go, PostgreSQL, Azure | In Progress |
+| [Pennant](https://github.com/ilijavlahovic24-bit](https://github.com/ilijavlahovic24-bit/pennant)) | B2B feature flag management system — RBAC, multi-tenancy, deterministic bucketing | Go, React, PostgreSQL, Redis | In Progress |
+| [AzureBank](https://github.com/ilijavlahovic24-bit](https://github.com/ilijavlahovic24-bit/azurebank)) | Retail banking API with CI/CD pipeline and cloud deployment | Go, PostgreSQL, Azure | In Progress |
 | [Hallify](https://github.com/ilijavlahovic24-bit) | Event hall rental platform (university group project) | Python, Django | Completed |
 
 ---
