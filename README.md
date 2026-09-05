@@ -101,10 +101,7 @@ Areas         : Systems Programming · Distributed Systems · GPU Computing · M
 
 ### GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilijavlahovic24-bit&show_icons=true&theme=dark&hide_border=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilijavlahovic24-bit&layout=compact&theme=dark&hide_border=true" height="165"/>
-</p>
+
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilijavlahovic24-bit&theme=dark&hide_border=true" height="165"/>
