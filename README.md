@@ -56,7 +56,7 @@ Currently:
 | Project | Description | Stack | Status | Also in |
 |---|---|---|---|---|
 | [MicroJava Compiler](https://github.com/ilijavlahovic24-bit) | Full compiler for MicroJava (Level C) — lexer, parser, semantic analysis, codegen for a custom VM | Java, JFlex, CUP | Completed | — |
-| [GraphStream]((https://github.com/ilijavlahovic24-bit/graphstream)) | Temporal graph query engine with a custom query language (TQL) — EBNF grammar, parser, execution engine | Rust | Planned | Distributed Systems |
+| [GraphStream](https://github.com/ilijavlahovic24-bit/graphstream) | Temporal graph query engine with a custom query language (TQL) — EBNF grammar, parser, execution engine | Rust | Planned | Distributed Systems |
 | [SLC](https://github.com/ilijavlahovic24-bit/slc) | Custom shader language to GLSL compiler (diploma thesis) | C++ | Planned | — |
 
 #### Machine Learning & Physics
