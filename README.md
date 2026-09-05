@@ -16,7 +16,7 @@ year      : 4th year, Computer Science and Engineering
 focus     : Systems · Distributed Infrastructure · Physics-Informed ML
 target    : deep tech / space systems (CERN -> ESA/NASA)
 contact   : ilija.vlahovic24@gmail.com
-linkedin  : [linkedin.com/in/YOUR-LINKEDIN-HANDLE](https://www.linkedin.com/in/ilija-vlahovic-ba9946201/)
+linkedin  : https://www.linkedin.com/in/ilija-vlahovic-ba9946201
 ```
 
 ---
