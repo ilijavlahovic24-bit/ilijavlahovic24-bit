@@ -74,7 +74,7 @@ Currently:
 |---|---|---|---|
 | [Pennant](https://github.com/ilijavlahovic24-bit/pennant) | B2B feature flag management system — RBAC, multi-tenancy, deterministic bucketing | Go, React, PostgreSQL, Redis | In Progress |
 | [AzureBank](https://github.com/ilijavlahovic24-bit/azurebank) | Retail banking API with CI/CD pipeline and cloud deployment | Go, PostgreSQL, Azure, Terraform | Completed |
-| [Hallify] | Event hall rental platform (university group project) | Python, Django | Completed |
+| [Hallify](https://github.com/ilijavlahovic24-bit) | Event hall rental platform (university group project) | Python, Django | Completed |
 
 ---
 
