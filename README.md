@@ -65,7 +65,7 @@ Currently:
 |---|---|---|---|
 | [AIPlasma](https://github.com/ilijavlahovic24-bit/aiplasma) | Physics-informed ML framework (PINNs, Bayesian NNs) for plasma/fusion problems | Python, PyTorch | Core Complete |
 | [Particle Simulation (Physics Engine)](https://github.com/ilijavlahovic24-bit/Cuda-Particle-Solver) | 2D particle simulation, CUDA-accelerated from ~500 to 12,000+ particles at 60+ FPS | C++, CUDA, OpenGL | Completed |
-| [Mini-RAG](https://github.com/ilijavlahovic24-bit/rag-search) | Search engine with a custom HNSW vector index and hybrid retrieval | Python | Core Complete |
+| [Mini-RAG](https://github.com/ilijavlahovic24-bit/rag-search) | Search engine with a custom HNSW vector index and hybrid retrieval | Python, FastAPI | Core Complete |
 | [DistillBench](https://github.com/ilijavlahovic24-bit/distilbench) | Model Compression Trilogy - Distillation, quantization, and pruning benchmark suite | Python | In Progress |
 
 #### Applications & Platforms
