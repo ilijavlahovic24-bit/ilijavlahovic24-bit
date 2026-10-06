@@ -76,7 +76,7 @@ Currently:
 | [AzureBank](https://github.com/ilijavlahovic24-bit/azurebank) | Retail banking API with CI/CD pipeline and cloud deployment | Go, PostgreSQL, Azure, Terraform | Completed |
 | [Hallify](https://github.com/ilijavlahovic24-bit) | Event hall rental platform (university group project) | Python, Django | Completed |
 
-#### Embeded
+#### Embedded Systems & Robotics
 
 | Project | Description | Stack | Status |
 |---|---|---|---|
@@ -88,7 +88,7 @@ Currently:
 
 ```
 Languages     : C/C++ · Rust · Go · Python · Java · RISC-V Assembly
-Technologies  : CUDA · Docker · Git · Linux
+Technologies  : CUDA · Docker · Git · Linux · MySQL · PostgreSQL · Azure
 Areas         : Systems Programming · Distributed Systems · GPU Computing · Machine Learning
 ```
 
