@@ -76,6 +76,12 @@ Currently:
 | [AzureBank](https://github.com/ilijavlahovic24-bit/azurebank) | Retail banking API with CI/CD pipeline and cloud deployment | Go, PostgreSQL, Azure, Terraform | Completed |
 | [Hallify](https://github.com/ilijavlahovic24-bit) | Event hall rental platform (university group project) | Python, Django | Completed |
 
+#### Embeded
+
+| Project | Description | Stack | Status |
+|---|---|---|---|
+| [Drone](https://github.com/ilijavlahovic24-bit/drone) | Bare-metal quadcopter flight controller from scratch — IMU fusion, PID control, PWM/ESC driving, 6-DOF dynamics simulation  | C, STM32F103 (Cortex-M3), Proteus | In Progress |
+
 ---
 
 ### Tech Stack
