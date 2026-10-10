@@ -39,7 +39,7 @@ Currently:
 | Project | Description | Stack | Status | Also in |
 |---|---|---|---|---|
 | [Fault-Tolerant Distributed File System](https://github.com/ilijavlahovic24-bit/ffs) | Distributed FS with FUSE mount, WAL for crash recovery, Raft consensus, RPC, VFS, Chaos Testing | Rust, FUSE, Tokio | Core Complete | Systems Software |
-| [Distributed Key-Value Store (DKVS)](https://github.com/ilijavlahovic24-bit/dkvs) | Sharded KV store with consistent hashing (FNV-64) and inter-shard replication | Go, BoltDB | Core Complete | — |
+| [Distributed Key-Value Store (DKVS)](https://github.com/ilijavlahovic24-bit/dkvs) | Sharded KV store with consistent hashing (FNV-64) and inter-shard replication | Go, BoltDB | Completed | — |
 | [Distributed Tuple-Space System (Linda)](https://github.com/ilijavlahovic24-bit/javalinda) | Distributed Linda-style tuple space with worker heartbeat/failover | Java | Completed | — |
 | [GraphStream](https://github.com/ilijavlahovic24-bit/graphstream) | Temporal graph query engine with a custom query language (TQL) — EBNF grammar, parser, execution engine | Rust | v1 completed, v2 planned | Compilers & Query Languages|
 | [GFCS-R](https://github.com/ilijavlahovic24-bit/gfcr) | Discrete-event simulator for GPU interconnect fabric with congestion-aware routing | Rust | In Progress | — |
@@ -63,10 +63,10 @@ Currently:
 
 | Project | Description | Stack | Status |
 |---|---|---|---|
-| [AIPlasma](https://github.com/ilijavlahovic24-bit/aiplasma) | Physics-informed ML framework (PINNs, Bayesian NNs) for plasma/fusion problems | Python, PyTorch | Core Complete |
+| [AIPlasma](https://github.com/ilijavlahovic24-bit/aiplasma) | Physics-informed ML framework (PINNs, Bayesian NNs) for plasma/fusion problems | Python, PyTorch | v1 completed, v2 planned |
 | [Particle Simulation (Physics Engine)](https://github.com/ilijavlahovic24-bit/Cuda-Particle-Solver) | 2D particle simulation, CUDA-accelerated from ~500 to 12,000+ particles at 60+ FPS | C++, CUDA, OpenGL | Completed |
-| [Mini-RAG](https://github.com/ilijavlahovic24-bit/rag-search) | Search engine with a custom HNSW vector index and hybrid retrieval | Python, FastAPI | Core Complete |
-| [DistillBench](https://github.com/ilijavlahovic24-bit/distilbench) | Model Compression Trilogy - Distillation, quantization, and pruning benchmark suite | Python | In Progress |
+| [Mini-RAG](https://github.com/ilijavlahovic24-bit/rag-search) | Search engine with a custom HNSW vector index and hybrid retrieval | Python, FastAPI | Completed |
+| [DistillBench](https://github.com/ilijavlahovic24-bit/distilbench) | Model Compression Trilogy - Distillation, quantization, and pruning benchmark suite | Python | Completed |
 
 #### Applications & Platforms
 
