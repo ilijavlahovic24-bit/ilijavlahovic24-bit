@@ -41,7 +41,7 @@ Currently:
 | [Fault-Tolerant Distributed File System](https://github.com/ilijavlahovic24-bit/ffs) | Distributed FS with FUSE mount, WAL for crash recovery, Raft consensus, RPC, VFS, Chaos Testing | Rust, FUSE, Tokio | Core Complete | Systems Software |
 | [Distributed Key-Value Store (DKVS)](https://github.com/ilijavlahovic24-bit/dkvs) | Sharded KV store with consistent hashing (FNV-64) and inter-shard replication | Go, BoltDB | Completed | — |
 | [Distributed Tuple-Space System (Linda)](https://github.com/ilijavlahovic24-bit/javalinda) | Distributed Linda-style tuple space with worker heartbeat/failover | Java | Completed | — |
-| [GraphStream](https://github.com/ilijavlahovic24-bit/graphstream) | Temporal graph query engine with a custom query language (TQL) — EBNF grammar, parser, execution engine | Rust | v1 completed, v2 planned | Compilers & Query Languages|
+| [GraphStream](https://github.com/ilijavlahovic24-bit/graphstream) | Temporal graph query engine with a custom query language (TQL) — EBNF grammar, parser, execution engine | Rust, Kafka, Kubernetes | v2 completed | Compilers & Query Languages|
 | [GFCS-R](https://github.com/ilijavlahovic24-bit/gfcr) | Discrete-event simulator for GPU interconnect fabric with congestion-aware routing | Rust | In Progress | — |
 
 #### Systems Software
