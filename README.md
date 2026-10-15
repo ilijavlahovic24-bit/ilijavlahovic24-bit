@@ -27,8 +27,9 @@ linkedin  : https://www.linkedin.com/in/ilija-vlahovic-ba9946201
 
 Currently:
 - Building a **fault-tolerant distributed file system** in Rust (FUSE + Raft + WAL)
-- Building a **temporal graph query engine** in Rust
 - Developing **AIPlasma**, a physics-informed ML framework for plasma/fusion problems
+- Making a full functional drone from scratch with STM32 microcontroller
+- Making a sheder language compiler in C++ that translates my custom made language into GLSL
 
 ---
 
@@ -42,7 +43,7 @@ Currently:
 | [Distributed Key-Value Store (DKVS)](https://github.com/ilijavlahovic24-bit/dkvs) | Sharded KV store with consistent hashing (FNV-64) and inter-shard replication | Go, BoltDB | Completed | — |
 | [Distributed Tuple-Space System (Linda)](https://github.com/ilijavlahovic24-bit/javalinda) | Distributed Linda-style tuple space with worker heartbeat/failover | Java | Completed | — |
 | [GraphStream](https://github.com/ilijavlahovic24-bit/graphstream) | Temporal graph query engine with a custom query language (TQL) — EBNF grammar, parser, execution engine | Rust, Apache Kafka, Kubernetes | Completed | Compilers & Query Languages|
-| [GFCS-R](https://github.com/ilijavlahovic24-bit/gfcr) | Discrete-event simulator for GPU interconnect fabric with congestion-aware routing | Rust | In Progress | — |
+| [GFCS-R](https://github.com/ilijavlahovic24-bit/gfcr) | Discrete-event simulator for GPU interconnect fabric with congestion-aware routing | Rust | Planned | — |
 
 #### Systems Software
 
@@ -57,7 +58,7 @@ Currently:
 |---|---|---|---|---|
 | [MicroJava Compiler](https://github.com/ilijavlahovic24-bit/microjavacompiler) | Full compiler for MicroJava (Level C) — lexer, parser, semantic analysis, codegen for a custom VM | Java, JFlex, CUP | Completed | — |
 | [GraphStream](https://github.com/ilijavlahovic24-bit/graphstream) | Temporal graph query engine with a custom query language (TQL) — EBNF grammar, parser, execution engine | Rust, Apache Kafka, Kubernetes | Completed | Distributed Systems |
-| [SLC](https://github.com/ilijavlahovic24-bit/slc) | Custom shader language to GLSL compiler (diploma thesis) | C++ | Planned | — |
+| [SLC](https://github.com/ilijavlahovic24-bit/slc) | Custom shader language to GLSL compiler (diploma thesis) | C++ | In Progress | — |
 
 #### Machine Learning & Physics
 
