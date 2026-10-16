@@ -39,7 +39,7 @@ Currently:
 
 | Project | Description | Stack | Status | Also in |
 |---|---|---|---|---|
-| [Fault-Tolerant Distributed File System](https://github.com/ilijavlahovic24-bit/ffs) | Distributed FS with FUSE mount, WAL for crash recovery, Raft consensus, RPC, VFS, Chaos Testing | Rust, FUSE, Tokio | Core Complete | Systems Software |
+| [Fault-Tolerant Distributed File System](https://github.com/ilijavlahovic24-bit/ffs) | Distributed FS with FUSE mount, WAL for crash recovery, Raft consensus, RPC, VFS, Chaos Testing | Rust, FUSE, Tokio | Completed | Systems Software |
 | [Distributed Key-Value Store (DKVS)](https://github.com/ilijavlahovic24-bit/dkvs) | Sharded KV store with consistent hashing (FNV-64) and inter-shard replication | Go, BoltDB | Completed | — |
 | [Distributed Tuple-Space System (Linda)](https://github.com/ilijavlahovic24-bit/javalinda) | Distributed Linda-style tuple space with worker heartbeat/failover | Java | Completed | — |
 | [GraphStream](https://github.com/ilijavlahovic24-bit/graphstream) | Temporal graph query engine with a custom query language (TQL) — EBNF grammar, parser, execution engine | Rust, Apache Kafka, Kubernetes | Completed | Compilers & Query Languages|
@@ -49,7 +49,7 @@ Currently:
 
 | Project | Description | Stack | Status | Also in |
 |---|---|---|---|---|
-| [Fault-Tolerant Distributed File System](https://github.com/ilijavlahovic24-bit/ffs) | Distributed FS with FUSE mount, WAL for crash recovery, Raft consensus (planned) | Rust, FUSE, Tokio | Core Complete | Distributed Systems |
+| [Fault-Tolerant Distributed File System](https://github.com/ilijavlahovic24-bit/ffs) | Distributed FS with FUSE mount, WAL for crash recovery, Raft consensus, RPC, VFS, Chaos Testing | Rust, FUSE, Tokio | Completed | Distributed Systems |
 | [RISC-V OS Kernel](https://github.com/ilijavlahovic24-bit/OS1) | OS kernel from scratch: preemptive multitasking, memory allocator, trap-based syscalls | C++, RISC-V ASM | Completed | — |
 
 #### Compilers & Query Languages
