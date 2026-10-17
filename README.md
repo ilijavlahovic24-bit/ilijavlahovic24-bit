@@ -26,10 +26,9 @@ linkedin  : https://www.linkedin.com/in/ilija-vlahovic-ba9946201
 4th-year Computer Science and Engineering student at the **Faculty of Electrical Engineering, University of Belgrade**. I like building things close to the metal (filesystems, distributed stores, OS kernels, compilers) and I'm increasingly pulled toward physics-informed machine learning. Long-term, I'm aiming at deep tech and space systems.
 
 Currently:
-- Building a **fault-tolerant distributed file system** in Rust (FUSE + Raft + WAL)
 - Developing **AIPlasma**, a physics-informed ML framework for plasma/fusion problems
 - Making a full functional drone from scratch with STM32 microcontroller
-- Making a sheder language compiler in C++ that translates my custom made language into GLSL
+- Making a shader language compiler in C++ that translates my custom made language into GLSL
 
 ---
 
