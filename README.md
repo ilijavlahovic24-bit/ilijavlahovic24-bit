@@ -12,9 +12,8 @@ ilija@etf-belgrade
 -------------------
 name      : Ilija Vlahović
 role      : CS student, Faculty of Electrical Engineering, Belgrade
-year      : 4th year, Computer Science and Engineering
-focus     : Systems · Distributed Infrastructure · Physics-Informed ML
-target    : software engineering · deep tech
+year      : 4th year, Software Engineering
+open to   : internships · systems / infrastructure engineering roles
 contact   : ilija.vlahovic24@gmail.com
 linkedin  : https://www.linkedin.com/in/ilija-vlahovic-ba9946201
 ```
@@ -23,7 +22,8 @@ linkedin  : https://www.linkedin.com/in/ilija-vlahovic-ba9946201
 
 ### About
 
-4th-year Computer Science and Engineering student at the **Faculty of Electrical Engineering, University of Belgrade**. I like building things close to the metal (filesystems, distributed stores, OS kernels, compilers) and I'm increasingly pulled toward physics-informed machine learning. Long-term, I'm aiming at deep tech and space systems.
+4th-year Software Engineering student at the **Faculty of Electrical Engineering, University of Belgrade**. I build the layers that software runs on, from scratch: an OS kernel, a Raft-replicated filesystem, a key-value store, a query engine, compilers. I take the same approach to machine learning, where I write the frameworks myself, such as a physics-informed ML framework and a vector search index, instead of treating them as black boxes.
+
 
 Currently:
 - Developing **AIPlasma**, a physics-informed ML framework for plasma/fusion problems
