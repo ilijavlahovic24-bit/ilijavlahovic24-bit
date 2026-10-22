@@ -14,7 +14,7 @@ name      : Ilija Vlahović
 role      : CS student, Faculty of Electrical Engineering, Belgrade
 year      : 4th year, Computer Science and Engineering
 focus     : Systems · Distributed Infrastructure · Physics-Informed ML
-target    : deep tech / space systems (CERN -> ESA/NASA)
+target    : software engineering · deep tech
 contact   : ilija.vlahovic24@gmail.com
 linkedin  : https://www.linkedin.com/in/ilija-vlahovic-ba9946201
 ```
