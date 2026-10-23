@@ -33,14 +33,16 @@ Currently:
 ---
 
 ### Projects
-Statuses:
-Completed- All core functionalities are completed, the project is documented and measured, and no further development is expected.
-Maintained - All core functionalities are completed, the project is documented and measured, but development continues to improve results or add/improve functionalities.
-Core Completed - All core functionalities are completed, but documentation and/or measurement is not done.
-In Progress- Not all core functionalities are completed, but they are in development.
-Planned- Core idea for the project is defined or structured, but development has not started.
-Abandoned- Not all functionalities are completed, and there will be no further development in the foreseeable future.
+|Statuses| meaning |
+|---|---|
+|Completed | All core functionalities are completed, the project is documented and measured, and no further development is expected.|
+| Maintained | All core functionalities are completed, the project is documented and measured, but development continues to improve results or add/improve functionalities.|
+|Core Completed | All core functionalities are completed, but documentation and/or measurement is not done.|
+|In Progress | Not all core functionalities are completed, but they are in development.|
+|Planned| Core idea for the project is defined or structured, but development has not started.|
+| Abandoned | Not all functionalities are completed, and there will be no further development in the foreseeable future.|
 
+#### Distributed Systems
 | Project | Description | Stack | Status | Also in |
 |---|---|---|---|---|
 | [Fault-Tolerant Distributed File System](https://github.com/ilijavlahovic24-bit/ffs) | Distributed FS with FUSE mount, WAL for crash recovery, Raft consensus, RPC, VFS, Chaos Testing | Rust, FUSE, Tokio | Completed | Systems Software |
