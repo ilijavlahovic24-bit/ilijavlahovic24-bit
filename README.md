@@ -33,38 +33,43 @@ Currently:
 ---
 
 ### Projects
-
-#### Distributed Systems
+Statuses:
+Completed- All core functionalities are completed, the project is documented and measured, and no further development is expected.
+Maintained - All core functionalities are completed, the project is documented and measured, but development continues to improve results or add/improve functionalities.
+Core Completed - All core functionalities are completed, but documentation and/or measurement is not done.
+In Progress- Not all core functionalities are completed, but they are in development.
+Planned- Core idea for the project is defined or structured, but development has not started.
+Abandoned- Not all functionalities are completed, and there will be no further development in the foreseeable future.
 
 | Project | Description | Stack | Status | Also in |
 |---|---|---|---|---|
 | [Fault-Tolerant Distributed File System](https://github.com/ilijavlahovic24-bit/ffs) | Distributed FS with FUSE mount, WAL for crash recovery, Raft consensus, RPC, VFS, Chaos Testing | Rust, FUSE, Tokio | Completed | Systems Software |
-| [Distributed Key-Value Store (DKVS)](https://github.com/ilijavlahovic24-bit/dkvs) | Sharded KV store with consistent hashing (FNV-64) and inter-shard replication | Go, BoltDB | Completed | — |
-| [Distributed Tuple-Space System (Linda)](https://github.com/ilijavlahovic24-bit/javalinda) | Distributed Linda-style tuple space with worker heartbeat/failover | Java | Completed | — |
-| [GraphStream](https://github.com/ilijavlahovic24-bit/graphstream) | Temporal graph query engine with a custom query language (TQL) - EBNF grammar, parser, execution engine | Rust, Apache Kafka, Kubernetes | Completed | Compilers & Query Languages|
-| [GFCS-R](https://github.com/ilijavlahovic24-bit/gfcr) | Discrete-event simulator for GPU interconnect fabric with congestion-aware routing | Rust | In progress | — |
+| [Distributed Key-Value Store (DKVS)](https://github.com/ilijavlahovic24-bit/dkvs) | Sharded KV store with consistent hashing (FNV-64) and inter-shard replication | Go, BoltDB | Completed | - |
+| [Distributed Tuple-Space System (Linda)](https://github.com/ilijavlahovic24-bit/javalinda) | Distributed Linda-style tuple space with worker heartbeat/failover | Java | Completed | - |
+| [GraphStream](https://github.com/ilijavlahovic24-bit/graphstream) | Temporal graph query engine with a custom query language (TQL) - EBNF grammar, parser, execution engine | Rust, Apache Kafka, Kubernetes | Maintained | Compilers & Query Languages|
+| [GFCS-R](https://github.com/ilijavlahovic24-bit/gfcr) | Discrete-event simulator for GPU interconnect fabric with congestion-aware routing | Rust | In progress | - |
 
 #### Systems Software
 
 | Project | Description | Stack | Status | Also in |
 |---|---|---|---|---|
 | [Fault-Tolerant Distributed File System](https://github.com/ilijavlahovic24-bit/ffs) | Distributed FS with FUSE mount, WAL for crash recovery, Raft consensus, RPC, VFS, Chaos Testing | Rust, FUSE, Tokio | Completed | Distributed Systems |
-| [RISC-V OS Kernel](https://github.com/ilijavlahovic24-bit/OS1) | OS kernel from scratch: preemptive multitasking, memory allocator, trap-based syscalls | C++, RISC-V ASM | Completed | — |
+| [RISC-V OS Kernel](https://github.com/ilijavlahovic24-bit/OS1) | OS kernel from scratch: preemptive multitasking, memory allocator, trap-based syscalls | C++, RISC-V ASM | Completed | - |
 
 #### Compilers & Query Languages
 
 | Project | Description | Stack | Status | Also in |
 |---|---|---|---|---|
-| [MicroJava Compiler](https://github.com/ilijavlahovic24-bit/microjavacompiler) | Full compiler for MicroJava (Level C) — lexer, parser, semantic analysis, codegen for a custom VM | Java, JFlex, CUP | Completed | — |
-| [GraphStream](https://github.com/ilijavlahovic24-bit/graphstream) | Temporal graph query engine with a custom query language (TQL) — EBNF grammar, parser, execution engine | Rust, Apache Kafka, Kubernetes | Completed | Distributed Systems |
-| [SLC](https://github.com/ilijavlahovic24-bit/slc) | Custom shader language to GLSL compiler (diploma thesis) | C++ | In Progress | — |
+| [MicroJava Compiler](https://github.com/ilijavlahovic24-bit/microjavacompiler) | Full compiler for MicroJava (Level C) - lexer, parser, semantic analysis, codegen for a custom VM | Java, JFlex, CUP | Completed | - |
+| [GraphStream](https://github.com/ilijavlahovic24-bit/graphstream) | Temporal graph query engine with a custom query language (TQL) - EBNF grammar, parser, execution engine | Rust, Apache Kafka, Kubernetes | Maintained | Distributed Systems |
+| [SLC](https://github.com/ilijavlahovic24-bit/slc) | Custom shader language to GLSL compiler (diploma thesis) | C++ | In Progress | - |
 
-#### Machine Learning & Physics
+#### Machine Learning & Physics Simulations
 
 | Project | Description | Stack | Status |
 |---|---|---|---|
-| [AIPlasma](https://github.com/ilijavlahovic24-bit/aiplasma) | Physics-informed ML framework (PINNs, Bayesian NNs) for plasma/fusion problems | Python, PyTorch | v1 completed, v2 planned |
-| [Particle Simulation (Physics Engine)](https://github.com/ilijavlahovic24-bit/Cuda-Particle-Solver) | 2D particle simulation, CUDA-accelerated from ~500 to 12,000+ particles at 60+ FPS | C++, CUDA, OpenGL | Completed |
+| [AIPlasma](https://github.com/ilijavlahovic24-bit/aiplasma) | Physics-informed ML framework (PINNs, Bayesian NNs) for plasma/fusion problems | Python, PyTorch | Maintained |
+| [Particle Physics Engine](https://github.com/ilijavlahovic24-bit/Cuda-Particle-Solver) | 2D particle simulation, CUDA-accelerated from ~500 to 12,000+ particles at 60+ FPS | C++, CUDA, OpenGL, SFML | Completed |
 | [Mini-RAG](https://github.com/ilijavlahovic24-bit/rag-search) | Search engine with a custom HNSW vector index and hybrid retrieval | Python, FastAPI | Completed |
 | [DistillBench](https://github.com/ilijavlahovic24-bit/distilbench) | Model Compression Trilogy - Distillation, quantization, and pruning benchmark suite | Python | Completed |
 
@@ -72,7 +77,7 @@ Currently:
 
 | Project | Description | Stack | Status |
 |---|---|---|---|
-| [Pennant](https://github.com/ilijavlahovic24-bit/pennant) | B2B feature flag management system — RBAC, multi-tenancy, deterministic bucketing | Go, React, PostgreSQL, Redis | Completed |
+| [Pennant](https://github.com/ilijavlahovic24-bit/pennant) | B2B feature flag management system - RBAC, multi-tenancy, deterministic bucketing | Go, React, PostgreSQL, Redis | Completed |
 | [AzureBank](https://github.com/ilijavlahovic24-bit/azurebank) | Retail banking API with CI/CD pipeline and cloud deployment | Go, PostgreSQL, Azure, Terraform | Completed |
 | [Hallify](https://github.com/ilijavlahovic24-bit) | Event hall rental platform (university group project) | Python, Django | Completed |
 
@@ -80,7 +85,7 @@ Currently:
 
 | Project | Description | Stack | Status |
 |---|---|---|---|
-| [Drone](https://github.com/ilijavlahovic24-bit/drone) | Bare-metal quadcopter flight controller from scratch — IMU fusion, PID control, PWM/ESC driving, 6-DOF dynamics simulation  | C, STM32F103 (Cortex-M3), Proteus | In Progress |
+| [Drone](https://github.com/ilijavlahovic24-bit/drone) | Bare-metal quadcopter flight controller from scratch - IMU fusion, PID control, PWM/ESC driving, 6-DOF dynamics simulation  | C, STM32F103 (Cortex-M3), Proteus | In Progress |
 
 ---
 
@@ -98,9 +103,9 @@ Areas         : Systems Programming · Distributed Systems · GPU Computing · M
 
 - Cisco Cybersecurity Certificate
 - Google Production ML Systems Certificate
-- Petnica Science Center — competitive science program for Serbia's most talented students
+- Petnica Science Center - competitive science program for Serbia's most talented students
 - ABB Robotics Hackathon · JetBrains Hackathon (logistics team) · Google Developer Group Cloud Workshop
-- Member, EESTEC — European Association of Electrical Engineering Students
+- Member, EESTEC - European Association of Electrical Engineering Students
 - Member, Google Developer Group on Campus
 
 ---
