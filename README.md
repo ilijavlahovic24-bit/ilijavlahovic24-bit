@@ -82,6 +82,7 @@ Currently:
 | [Pennant](https://github.com/ilijavlahovic24-bit/pennant) | B2B feature flag management system - RBAC, multi-tenancy, deterministic bucketing | Go, React, PostgreSQL, Redis | Completed |
 | [AzureBank](https://github.com/ilijavlahovic24-bit/azurebank) | Retail banking API with CI/CD pipeline and cloud deployment | Go, PostgreSQL, Azure, Terraform | Completed |
 | [Hallify](https://github.com/ilijavlahovic24-bit) | Event hall rental platform (university group project) | Python, Django | Completed |
+| [Retail-ELT](https://github.com/ilijavlahovic24-bit/elt) | Complete ELT pipeline that ingests raw sales data, loads it into a warehouse, transforms it into a star schema with dbt, orchestrates the entire flow with Airflow, and enforces data quality at every stage. The output is a queryable analytics table and a simple dashboard. | Python, Docker, Airflow, dbt | Completed |
 
 #### Embedded Systems & Robotics
 
