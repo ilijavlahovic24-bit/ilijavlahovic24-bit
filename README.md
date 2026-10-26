@@ -90,6 +90,14 @@ Currently:
 |---|---|---|---|
 | [Drone](https://github.com/ilijavlahovic24-bit/drone) | Bare-metal quadcopter flight controller from scratch - IMU fusion, PID control, PWM/ESC driving, 6-DOF dynamics simulation  | C, STM32F103 (Cortex-M3), Proteus | In Progress |
 
+#### CyberSecurity
+
+| Project | Description | Stack | Status |
+|---|---|---|---|
+| [Vigil](https://github.com/ilijavlahovic24-bit/vigil) | Network Intrusion Detection & Response System  | Rust | In Progress |
+| [Universal testing suite](https://github.com/ilijavlahovic24-bit) | One tool to test, stress, fuzz, benchmark and (partially) formally verify distributed programs written in Rust and C++.  | Rust | In Progress |
+
+
 ---
 
 ### Tech Stack
