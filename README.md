@@ -77,13 +77,13 @@ Currently:
 
 #### Applications & Platforms
 
-| Project | Description | Stack | Status |
-|---|---|---|---|
+| Project | Description | Stack | Status | Also in |
+|---|---|---|---|---|
 | [Pennant](https://github.com/ilijavlahovic24-bit/pennant) | B2B feature flag management system - RBAC, multi-tenancy, deterministic bucketing | Go, React, PostgreSQL, Redis | Completed |
 | [AzureBank](https://github.com/ilijavlahovic24-bit/azurebank) | Retail banking API with CI/CD pipeline and cloud deployment | Go, PostgreSQL, Azure, Terraform | Completed |
 | [Hallify](https://github.com/ilijavlahovic24-bit) | Event hall rental platform (university group project) | Python, Django | Completed |
 | [Retail-ELT](https://github.com/ilijavlahovic24-bit/elt) | Complete ELT pipeline that ingests raw sales data, loads it into a warehouse, transforms it into a star schema with dbt, orchestrates the entire flow with Airflow, and enforces data quality at every stage. The output is a queryable analytics table and a simple dashboard. | Python, Docker, Airflow, dbt | Completed |
-| [Universal testing suite](https://github.com/ilijavlahovic24-bit/uts) | One tool for testing, stressing, fuzzing, benchmarking and to (partially) formally verify distributed programs written in Rust and C++.  | Rust, Go | In Progress |
+| [Universal testing suite](https://github.com/ilijavlahovic24-bit/uts) | One tool for testing, stressing, fuzzing, benchmarking and to (partially) formally verify distributed programs written in Rust and C++.  | Rust, Go | In Progress | Cybersecurity |
 
 #### Embedded Systems & Robotics
 
@@ -91,7 +91,7 @@ Currently:
 |---|---|---|---|
 | [Drone](https://github.com/ilijavlahovic24-bit/drone) | Bare-metal quadcopter flight controller from scratch - IMU fusion, PID control, PWM/ESC driving, 6-DOF dynamics simulation  | C, STM32F103 (Cortex-M3), Proteus | In Progress |
 
-#### CyberSecurity
+#### Cybersecurity
 
 | Project | Description | Stack | Status |
 |---|---|---|---|
