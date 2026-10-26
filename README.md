@@ -95,7 +95,7 @@ Currently:
 | Project | Description | Stack | Status |
 |---|---|---|---|
 | [Vigil](https://github.com/ilijavlahovic24-bit/vigil) | Network Intrusion Detection & Response System  | Rust | In Progress |
-| [Universal testing suite](https://github.com/ilijavlahovic24-bit) | One tool to test, stress, fuzz, benchmark and (partially) formally verify distributed programs written in Rust and C++.  | Rust | In Progress |
+| [Universal testing suite](https://github.com/ilijavlahovic24-bit/uts) | One tool for testing, stressing, fuzzing, benchmarking and to (partially) formally verify distributed programs written in Rust and C++.  | Rust, Go | In Progress |
 
 
 ---
