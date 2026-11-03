@@ -26,9 +26,9 @@ linkedin  : https://www.linkedin.com/in/ilija-vlahovic-ba9946201
 
 
 Currently:
-- Developing **AIPlasma**, a physics-informed ML framework for plasma/fusion problems
 - Making a full functional drone from scratch with STM32 microcontroller
-- Making a shader language compiler in C++ that translates my custom made language into GLSL
+- Making a SIMD-accelerated backtesting engine with a JIT-compiled strategy language
+- Making a Network Intrusion Detection & Response System
 
 ---
 
