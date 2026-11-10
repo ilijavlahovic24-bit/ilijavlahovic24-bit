@@ -64,7 +64,7 @@ Currently:
 | [MicroJava Compiler](https://github.com/ilijavlahovic24-bit/microjavacompiler) | Full compiler for MicroJava (Level C) - lexer, parser, semantic analysis, codegen for a custom VM | Java, JFlex, CUP | Completed | - |
 | [GraphStream](https://github.com/ilijavlahovic24-bit/graphstream) | Temporal graph query engine with a custom query language (TQL) - EBNF grammar, parser, execution engine | Rust, Apache Kafka, Kubernetes | Maintained | Distributed Systems |
 | [SLC](https://github.com/ilijavlahovic24-bit/slc) | Custom shader language to GLSL compiler (diploma thesis) | C++, CMake | In Progress | - |
-| [Aura](https://github.com/ilijavlahovic24-bit/aura) | A SIMD-accelerated backtesting engine with a JIT-compiled strategy language. | C++, LLVM, CMake | In Progress | - |
+| [Aura](https://github.com/ilijavlahovic24-bit/aura) | A SIMD-accelerated backtesting engine with a JIT-compiled strategy language. | C++, LLVM, CMake | Maintained | - |
 
 #### Machine Learning & Physics Simulations
 
