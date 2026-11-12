@@ -28,6 +28,7 @@ linkedin  : https://www.linkedin.com/in/ilija-vlahovic-ba9946201
 Currently:
 - Making a full functional drone from scratch with STM32 microcontroller
 - Making a SIMD-accelerated backtesting engine with a JIT-compiled strategy language
+- Buliding data layer for my dsitributed file system
 
 ---
 
